@@ -1,3 +1,6 @@
+
+<img width="1165" alt="Screen Shot 2023-10-07 at 11 15 43 AM" src="https://github.com/JaimeChen12138/ReactPizzaMenu/assets/91461448/24b58623-3241-4611-a1b4-615373d3e145">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
